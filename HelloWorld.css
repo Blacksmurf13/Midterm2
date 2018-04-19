@@ -1,0 +1,28 @@
+h1{
+font-family: 'Monoton', cursive;
+color: SlateGray;
+}
+
+h2{
+	font-family: 
+	color:;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: SlateGray;
+	border: 5px solid Black;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	background-image: url("IMAGES/Cloud9.jpg");
+	color: SlateGray;
+}
+
+.black{
+	background-color: AntiqueWhite;
+}
+
+p{
+	font-family: 
+}
